@@ -1,5 +1,5 @@
 using Actualización_de_la_aplicación.ViewModel;
-namespace Actualización_de_la_aplicación.View;
+namespace Actualización_de_la_aplicación.Views;
 
 public partial class Recordatorios : ContentPage
 {
